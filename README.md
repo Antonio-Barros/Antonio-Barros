@@ -29,6 +29,7 @@
 </p>
 
 <h3 align="left">Confira meu conteúdo:</h3>
+:small_orange_diamond: <a href=https://medium.com/@antoniobarros.profissional/projeto-de-data-cleaning-com-sql-no-microsoft-sql-server-64bbc2c56aad> Projeto de Data Cleaning com SQL no Microsoft SQL Server </a><br>
 :small_orange_diamond: <a href=https://medium.com/@antoniobarros.profissional/a-import%C3%A2ncia-da-comunica%C3%A7%C3%A3o-na-an%C3%A1lise-de-dados-42196f83908> A Importância da Comunicação na Análise de Dados </a><br>
 :small_orange_diamond: <a href=https://medium.com/@antoniobarros.profissional/prototipa%C3%A7%C3%A3o-otimizando-o-processo-de-an%C3%A1lise-de-dados-9019bfd85e> Prototipação: Otimizando o processo de Análise de Dados </a><br>
 :small_orange_diamond: <a href=https://medium.com/@antoniobarros.profissional/como-utilizar-os-gr%C3%A1ficos-boxplot-para-identificar-outliers-em-dados-4bae04079a52> Como utilizar os gráficos Boxplot para identificar Outliers em dados</a>
